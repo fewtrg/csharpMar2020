@@ -1,0 +1,8 @@
+C:\dev\BankingSolution\BankingDomain\bin\Debug\netstandard2.0\BankingDomain.deps.json
+C:\dev\BankingSolution\BankingDomain\bin\Debug\netstandard2.0\BankingDomain.dll
+C:\dev\BankingSolution\BankingDomain\bin\Debug\netstandard2.0\BankingDomain.pdb
+C:\dev\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.csprojAssemblyReference.cache
+C:\dev\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.AssemblyInfoInputs.cache
+C:\dev\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.AssemblyInfo.cs
+C:\dev\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.dll
+C:\dev\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.pdb
