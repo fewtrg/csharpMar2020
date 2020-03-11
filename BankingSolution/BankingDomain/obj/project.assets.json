@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\BankingSolution\\BankingDomain\\BankingDomain.csproj",
+      "projectUniqueName": "C:\\dev\\csharpMar2020\\BankingSolution\\BankingDomain\\BankingDomain.csproj",
       "projectName": "BankingDomain",
-      "projectPath": "C:\\dev\\BankingSolution\\BankingDomain\\BankingDomain.csproj",
+      "projectPath": "C:\\dev\\csharpMar2020\\BankingSolution\\BankingDomain\\BankingDomain.csproj",
       "packagesPath": "C:\\Users\\ITUStudent\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\BankingSolution\\BankingDomain\\obj\\",
+      "outputPath": "C:\\dev\\csharpMar2020\\BankingSolution\\BankingDomain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ITUStudent\\AppData\\Roaming\\NuGet\\NuGet.Config",

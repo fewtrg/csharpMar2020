@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\BankingSolution\\BankingTests\\BankingTests.csproj": {}
+    "C:\\dev\\csharpMar2020\\BankingSolution\\BankingTests\\BankingTests.csproj": {}
   },
   "projects": {
-    "C:\\dev\\BankingSolution\\BankingDomain\\BankingDomain.csproj": {
+    "C:\\dev\\csharpMar2020\\BankingSolution\\BankingDomain\\BankingDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\BankingSolution\\BankingDomain\\BankingDomain.csproj",
+        "projectUniqueName": "C:\\dev\\csharpMar2020\\BankingSolution\\BankingDomain\\BankingDomain.csproj",
         "projectName": "BankingDomain",
-        "projectPath": "C:\\dev\\BankingSolution\\BankingDomain\\BankingDomain.csproj",
+        "projectPath": "C:\\dev\\csharpMar2020\\BankingSolution\\BankingDomain\\BankingDomain.csproj",
         "packagesPath": "C:\\Users\\ITUStudent\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\BankingSolution\\BankingDomain\\obj\\",
+        "outputPath": "C:\\dev\\csharpMar2020\\BankingSolution\\BankingDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ITUStudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\dev\\BankingSolution\\BankingTests\\BankingTests.csproj": {
+    "C:\\dev\\csharpMar2020\\BankingSolution\\BankingTests\\BankingTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\BankingSolution\\BankingTests\\BankingTests.csproj",
+        "projectUniqueName": "C:\\dev\\csharpMar2020\\BankingSolution\\BankingTests\\BankingTests.csproj",
         "projectName": "BankingTests",
-        "projectPath": "C:\\dev\\BankingSolution\\BankingTests\\BankingTests.csproj",
+        "projectPath": "C:\\dev\\csharpMar2020\\BankingSolution\\BankingTests\\BankingTests.csproj",
         "packagesPath": "C:\\Users\\ITUStudent\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\BankingSolution\\BankingTests\\obj\\",
+        "outputPath": "C:\\dev\\csharpMar2020\\BankingSolution\\BankingTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ITUStudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\dev\\BankingSolution\\BankingDomain\\BankingDomain.csproj": {
-                "projectPath": "C:\\dev\\BankingSolution\\BankingDomain\\BankingDomain.csproj"
+              "C:\\dev\\csharpMar2020\\BankingSolution\\BankingDomain\\BankingDomain.csproj": {
+                "projectPath": "C:\\dev\\csharpMar2020\\BankingSolution\\BankingDomain\\BankingDomain.csproj"
               }
             }
           }

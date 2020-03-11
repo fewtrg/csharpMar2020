@@ -6,3 +6,11 @@ C:\dev\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.Asse
 C:\dev\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.AssemblyInfo.cs
 C:\dev\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.dll
 C:\dev\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.pdb
+C:\dev\csharpMar2020\BankingSolution\BankingDomain\bin\Debug\netstandard2.0\BankingDomain.deps.json
+C:\dev\csharpMar2020\BankingSolution\BankingDomain\bin\Debug\netstandard2.0\BankingDomain.dll
+C:\dev\csharpMar2020\BankingSolution\BankingDomain\bin\Debug\netstandard2.0\BankingDomain.pdb
+C:\dev\csharpMar2020\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.csprojAssemblyReference.cache
+C:\dev\csharpMar2020\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.AssemblyInfoInputs.cache
+C:\dev\csharpMar2020\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.AssemblyInfo.cs
+C:\dev\csharpMar2020\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.dll
+C:\dev\csharpMar2020\BankingSolution\BankingDomain\obj\Debug\netstandard2.0\BankingDomain.pdb
