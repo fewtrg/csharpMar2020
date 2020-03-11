@@ -6,7 +6,7 @@ using Xunit;
 
 namespace BankingTests
 {
-   public class GoldAccountTests
+    public class GoldAccountTests
     {
         [Theory]
         [InlineData(100, 10)]
