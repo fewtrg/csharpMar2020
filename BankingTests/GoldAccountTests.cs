@@ -13,8 +13,8 @@ namespace BankingTests
         [InlineData(1000, 100)]
         public void DepositsGetTheBonus(decimal amount, decimal bonus)
         {
-            var account = new BankAccount();
-            account.TypeOfAccount = AccountType.Gold;
+            var account = new GoldAccount();
+           
             var initialBalance = account.GetBalance();
 
             account.Deposit(amount);

@@ -25,8 +25,8 @@ namespace BankingDomain
             }
             
         }
-
-        public void Deposit(decimal amountToDeposit)
+        // virtual giving permission to override
+        public virtual void Deposit(decimal amountToDeposit)
         {
             if(this.TypeOfAccount == AccountType.Gold)
             {
